@@ -7,8 +7,8 @@ to the Yandex.XML search API.
 Installation
 ------------
 
-# Create instance
-# Assign the instance a static IP address via horizon.wikimedia.org
-# sudo apt-get install nginx-light
-# sudo cp proxy.conf /etc/nginx/sites-enabled/default
-# sudo service nginx restart
+1. Create instance
+2. Assign the instance a static IP address via horizon.wikimedia.org
+3. sudo apt-get install nginx-light
+4. sudo cp proxy.conf /etc/nginx/sites-enabled/default
+5. sudo service nginx restart
